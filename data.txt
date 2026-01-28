@@ -1,0 +1,3 @@
+Machine learning is a field of AI that allows systems to learn from data.
+Vector databases store embeddings for semantic search.
+RAG combines retrieval with language models to generate answers.
